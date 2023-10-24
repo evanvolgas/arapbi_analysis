@@ -1,0 +1,13 @@
+logs/*
+*.csv
+*.json
+*.icloud
+.DS_Store
+secrets_define.py
+polygon_rewrite.py
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+ad_hoc.ipynb
+.ipynb_checkpoints/ad_hoc-checkpoint.ipynb
